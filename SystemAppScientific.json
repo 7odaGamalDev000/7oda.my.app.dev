@@ -4,6 +4,7 @@
       "description": "انت في خطوة الخير، كل الدروس والتمارين والامتحانات تجدها هنا، بالتوفيق.",
       "image": "assets/images/back.png",
       "name": "أولى بكالوريا",
+      "color": "#EFE7FF",
       "section": [
         {
           "icon": "assets/images/english.png",
@@ -1796,6 +1797,7 @@
       "description": "نجاحك اليوم راحتك غداً، كل الدروس والتمارين والامتحانات تجدها هنا، بالتوفيق.",
       "image": "assets/images/back2.png",
       "name": "ثانية بكالوريا",
+      "color": "#FFEFE7",
       "section": [
         {
           "icon": "assets/images/arabic.png",
@@ -3470,6 +3472,7 @@
       "description": "البداية هي الأهم، ابدأ بتفوق، كل الدروس والتمارين والامتحانات تجدها هنا، بالتوفيق.",
       "image": "assets/images/back3.png",
       "name": "الجزع المشترك",
+      "color": "#FFE3E7",
       "section": [
         {
           "icon": "assets/images/history.png",
